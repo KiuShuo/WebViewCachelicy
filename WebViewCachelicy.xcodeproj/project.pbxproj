@@ -193,7 +193,8 @@
 				TargetAttributes = {
 					8DA606E21E530A74004C3A62 = {
 						CreatedOnToolsVersion = 8.2.1;
-						ProvisioningStyle = Automatic;
+						DevelopmentTeam = 6GA5676ZM3;
+						ProvisioningStyle = Manual;
 					};
 					8DA606F61E530A74004C3A62 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -412,10 +413,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6GA5676ZM3;
 				INFOPLIST_FILE = WebViewCachelicy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pingan.com.WebViewCachelicy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ca85e8b0-23fc-49e1-871d-26a93909eea0";
+				PROVISIONING_PROFILE_SPECIFIER = wanjiaWildcard;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -424,10 +428,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6GA5676ZM3;
 				INFOPLIST_FILE = WebViewCachelicy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pingan.com.WebViewCachelicy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ca85e8b0-23fc-49e1-871d-26a93909eea0";
+				PROVISIONING_PROFILE_SPECIFIER = wanjiaWildcard;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
