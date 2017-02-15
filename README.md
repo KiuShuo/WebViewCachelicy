@@ -1,6 +1,6 @@
 # WebViewCachelicy
 
-然后分析[Demo](https://github.com/KiuShuo/WebViewCachelicy.git)中的代码：
+打开[Demo](https://github.com/KiuShuo/WebViewCachelicy.git)分析中的代码：
 
 ```Swift
 override func viewDidLoad() {
