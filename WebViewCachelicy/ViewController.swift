@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         if isClear {
             clearCacheBt.setTitle("clearCache", for: .normal)
         } else {
