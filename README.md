@@ -2,7 +2,7 @@
 
 然后分析Demo中的代码：
 
-```
+```Swift
 override func viewDidLoad() {
         super.viewDidLoad()
         if needClearCache {
